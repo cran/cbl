@@ -1,0 +1,16 @@
+e66259f9368d4c056de6325e9708b8de *DESCRIPTION
+8eef4e0488746f0cf7d9c184ea1dd87c *NAMESPACE
+be4937fcad7824e82ed34119456d932e *R/bipartite.R
+1c7ec8b6ee80606ae5c5706c6eb44d0f *R/cbl.R
+e310221933f5b4154ee088f14ecf383b *R/shah_ss.R
+369e6ae9daaf00ae3f8b4a93404ff61c *R/utils.R
+52b0e079b2575f565f011e0cc4910257 *README.md
+0f3dc7c5ceaaa1cb527ee199295144e2 *data/bipartite.RData
+2a811309c8d63625ecb83b1dde73b9c0 *man/bipartite.Rd
+7eb50880f3e983545f83833532f12da7 *man/cbl.Rd
+83909c9a120d6870a5b37293506a04ea *man/epsilon_fn.Rd
+cf6ff638824da4e2340bcc69d4e8ee02 *man/l0.Rd
+63d2a63c639c043b01241b850dc3e250 *man/minD.Rd
+8f11e0ceff159fa93e7673ff3797269e *man/r.TailProbs.Rd
+a5955846834318cf47c78f02dd05c264 *man/ss_fn.Rd
+11ef5b67aaf9f3b98990a0127f2d4465 *man/sub_loop.Rd
