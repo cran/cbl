@@ -1,6 +1,6 @@
 Package: cbl
 Title: Causal Discovery under a Confounder Blanket
-Version: 0.1
+Version: 0.1.1
 Authors@R: 
     person("David", "Watson", , "david.s.watson11@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-9632-2159"))
@@ -19,9 +19,9 @@ Imports: data.table, foreach, glmnet, lightgbm
 Encoding: UTF-8
 RoxygenNote: 7.2.0
 NeedsCompilation: no
-Packaged: 2022-06-09 13:59:18 UTC; dswatson
+Packaged: 2022-06-17 09:18:47 UTC; dswatson
 Author: David Watson [aut, cre] (<https://orcid.org/0000-0001-9632-2159>)
 Maintainer: David Watson <david.s.watson11@gmail.com>
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2022-06-10 09:10:12 UTC
+Date/Publication: 2022-06-17 09:40:02 UTC
