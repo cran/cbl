@@ -1,6 +1,6 @@
 Package: cbl
 Title: Causal Discovery under a Confounder Blanket
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person("David", "Watson", , "david.s.watson11@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-9632-2159"))
@@ -15,13 +15,13 @@ Description: Methods for learning causal relationships among a set of
     systems. For details, see Watson & Silva (2022) <arXiv:2205.05715>.
 License: GPL (>= 3)
 URL: https://github.com/dswatson/cbl
-Imports: data.table, foreach, glmnet, lightgbm
+Imports: data.table, foreach, glmnet, lightgbm, doRNG
 Encoding: UTF-8
-RoxygenNote: 7.2.0
+RoxygenNote: 7.2.1
 NeedsCompilation: no
-Packaged: 2022-06-17 09:18:47 UTC; dswatson
+Packaged: 2022-11-16 22:17:06 UTC; dswatson
 Author: David Watson [aut, cre] (<https://orcid.org/0000-0001-9632-2159>)
 Maintainer: David Watson <david.s.watson11@gmail.com>
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2022-06-17 09:40:02 UTC
+Date/Publication: 2022-11-16 22:40:06 UTC
